@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HospitalSolution.Application",
+    "\\HospitalSolution.Application\\Common",
+    "\\HospitalSolution.Application\\Common\\Persistence",
+    "\\HospitalSolution.Application\\UseCase",
+    "\\HospitalSolution.Application\\UseCase\\Authentication",
+    "\\HospitalSolution.Application\\UseCase\\Authentication\\Commands",
+    "\\HospitalSolution.Application\\UseCase\\Authentication\\Commands\\RegisterEmployee",
+    "\\HospitalSolution.Application\\UseCase\\Authentication\\Common",
+    "\\HospitalSolution.Application\\UseCase\\Authentication\\Queries",
+    "\\HospitalSolution.Application\\UseCase\\Authentication\\Queries\\LoginEmployee"
+  ],
+  "SelectedNode": "\\HospitalSolution.Application\\UseCase\\Authentication\\Commands\\RegisterEmployee\\AuthenticationCommandUseCase.cs",
+  "PreviewInSolutionExplorer": false
+}

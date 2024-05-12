@@ -1,0 +1,15 @@
+@HospitalSolution.Api_HostAddress = http://localhost:5084
+
+
+
+POST {{HospitalSolution.Api_HostAddress}}/auth/register
+Content-Type: application/json
+
+{
+      "FirstName": "Gabriel",
+      "LastName": "Pessoa",
+      "Address": "jose coli 3",
+      "PhoneNumber": "3464664545",
+      "Email": "gabrie�123@gmail.com",
+      "Password": "123456"
+}
